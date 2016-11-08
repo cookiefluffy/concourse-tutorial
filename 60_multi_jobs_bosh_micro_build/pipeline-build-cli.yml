@@ -46,5 +46,5 @@ resources:
 - name: git-tutorial
   type: git
   source:
-    uri: https://github.com/starkandwayne/concourse-tutorial.git
+    uri: https://github.com/cookiefluffy/concourse-tutorial.git
     branch: update-for-2.2.1

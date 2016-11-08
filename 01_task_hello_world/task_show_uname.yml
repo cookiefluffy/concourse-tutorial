@@ -5,10 +5,6 @@ image_resource:
   type: docker-image
   source: {repository: busybox}
 
-inputs:
-- name: 02_task_inputs
-- name: input1
-
 run:
-  path: ls
-  args: ['-alR']
+  path: uname
+  args: [-a]
