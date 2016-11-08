@@ -12,6 +12,6 @@ inputs:
 
 run:
   path: ls
-  args: ['-al']
+  args: ['-alRS']
   
 #  path: resource-tutorial/10_job_inputs/task_run_tests.sh
