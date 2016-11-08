@@ -8,8 +8,59 @@ resources:
   type: git
   source:
     branch: master
-    uri:
-    private_key:
+    uri: git@gist.github.com:e1a0725c25660e373820fd98c05bfbcc.git
+    private_key: |
+      -----BEGIN RSA PRIVATE KEY-----
+      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
+      -----END RSA PRIVATE KEY-----
 
 jobs:
 - name: job-bump-date
